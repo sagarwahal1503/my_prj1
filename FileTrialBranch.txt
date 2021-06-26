@@ -2,3 +2,4 @@ Test
 We will try to merge this.
 Let's try another merge
 MErhing using tool
+Trying another one
